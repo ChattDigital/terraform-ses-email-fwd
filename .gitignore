@@ -1,3 +1,6 @@
+# Ignore backend config file
+backend.hcl
+
 # Local .terraform directories
 **/.terraform/*
 

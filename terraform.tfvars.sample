@@ -1,0 +1,6 @@
+aws_region = "us-east-1"
+bucket_name = "ses-email-bucket"
+domain = "example.com"
+zone_name = "example.com"
+source_email = "me@example.com"
+destination_email = "me@gmail.com"
